@@ -59,7 +59,7 @@ Chord is when you have more then one not at a time
 
 ## Triad
 
-Is a cord made up three different notes
+Is a chord made up three different notes
 
 Then name of the cord tells where the root is 
 
@@ -76,6 +76,8 @@ Major triad:
 
 ## Chord progression
 
+![image-20211213195227991](image-20211213195227991.png)
+
 Chord progression is made up from some minor and major chords
 
 
@@ -84,3 +86,54 @@ Chord progression is made up from some minor and major chords
 
 ![image-20211212152754286](image-20211212152754286.png)
 
+## Diatonic chord progression
+
+![image-20211213200652228](image-20211213200652228.png)
+
+![image-20211213200821494](image-20211213200821494.png)
+
+![image-20211213202217820](image-20211213202217820.png)
+
+## Inversion
+
+Inversion means reordering notes (different from root note) to another octave
+
+From:
+
+![image-20211213205355412](image-20211213205355412.png)
+
+To:
+
+![image-20211213205616255](image-20211213205616255.png)
+
+
+
+Section 6
+
+## 7th chord
+
+![image-20211213210708377](image-20211213210708377.png)
+
+## Major 7
+
+## Major 7 is when we are half step from a root note of a higher octave
+
+![image-20211213212302615](image-20211213212302615.png)
+
+## Minor 7 
+
+## Minor 7 is when we are full step from a root note of a higher octave
+
+
+
+![image-20211213212511745](image-20211213212511745.png)
+
+![image-20211213212743333](image-20211213212743333.png)
+
+
+
+![image-20211213213937789](image-20211213213937789.png)
+
+![image-20211213213956914](image-20211213213956914.png)
+
+Flat seven?
