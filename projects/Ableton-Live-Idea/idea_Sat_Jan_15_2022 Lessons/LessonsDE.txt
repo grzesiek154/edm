@@ -1,0 +1,25 @@
+$Page Willkommen zu Live!
+$TargetName Welcome to Live!
+
+Die musikalische Idee, die du in deinem Browser gestartet hast, kann jetzt in Ableton Live gespielt werden.
+
+In Live nennen wir diese musikalischen Patterns /Clips./ Clips sehen so aus:
+Clip.png
+
+Um einen Clip zu hören, klicke auf seine *Start-Taste:*
+PlayButton.png
+
+Solltest du von eine der "Playground"-Seiten exportiert haben, siehst du mehrere Clips. Du kannst alle Clips zusammen starten lassen, indem du auf die *Master-Start-Taste* klickst :
+MasterPlay.png
+
+Um die Wiedergabe zu stoppen, drücke die Leertaste auf deiner Computer-Tastatur.
+
+Um Noten in einem Clip zu ändern, doppelklicke irgendwo auf den Clip, um ihn zunächst auszuwählen. Hierdurch werden die Noten im unteren Bereich des Fensters angezeigt. Du kannst nun die Noten verschieben und löschen, genau wie du es im Browser gemacht hast.
+Notes.png
+
+*Wie geht es weiter?*
+-> Machen Sie weiter Musik $Link in Ihrem Browser. <http://learningmusic.ableton.com/make-beats/make-beats.html>
+-> Lerne mehr über Live mit Hilfe der in Live $Link integrierten Kurse. <Lesson:Internal/Toc>
+
+$Comment Status: Translate
+$Comment Translation Status: Up-to-date

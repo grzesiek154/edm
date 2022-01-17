@@ -1,0 +1,25 @@
+$Page 欢迎来到 Live！
+$TargetName Welcome to Live!
+
+你刚刚在网页中起草的音乐构思现在也可以在 Ableton Live 中编辑了。
+
+在 Live 中，我们称这些声音片段为/clips。/ Clips 如下图所示：
+Clip.png
+
+若需试听 clip，请点击 *播放* 按钮:
+PlayButton.png
+
+如果你在“音乐乐园”页面中导出了一个文件，那么在 live 中打开后，你会看到多个 clips。如果你想同时播放它们，可以点击 *Master* 播放按钮：
+MasterPlay.png
+
+如需停止播放，请按空格键。
+
+如需调整 clip 中的音符，请双击 clip 的任意位置，这样界面下方会出现一个音符编辑窗口。你可以移动或删除音符，就同你之前在页面中的操作类似。
+Notes.png
+
+*下一步*
+-> 在 $Link 网页中 <http://learningmusic.ableton.com/make-beats/make-beats.html>创作更多音乐。
+-> 在 $Link 自带教程 <Lesson:Internal/Toc>中学习更多 Live 的知识。
+
+$Comment Status: Translate
+$Comment Translation Status: Up-to-date

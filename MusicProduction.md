@@ -31,3 +31,63 @@ So, a 1:1 ratio means the signal doesn’t get turned down at all when the volum
 https://www.ableton.com/en/packs/operator/
 
 Operator is a versatile, easy-to-use and great-sounding software instrument combining classic analog sounds and frequency modulation synthesis, perfectly integrated in Live's award-winning interface.
+
+
+
+# Reverb
+
+https://www.musicgateway.com/blog/how-to/reverb
+
+Reverb is the persistence of sound after a sound is produced. Reverb is created when a sound or signal is reflected off of a surface causing numerous reflections to build up. They then decay as the sound and reflections are absorbed by the surfaces of the objects around it. The original sound source can stop but the reflections continue, decreasing in amplitude (volume) until they reach zero. Reverb defines how a sound sits in a space. In all aspects of our daily lives, we experience the effects that reverb has on the sounds that we hear.
+
+
+
+# Delay
+
+![image-20220107211038212](image-20220107211038212.png)
+
+Number tels how much percent of the song should be affected by the delay
+
+https://www.renegadeproducer.com/delay-effects.html
+
+Delay is an effect process that takes incoming signals and plays back delayed duplicates to simulate the sound of echoes.
+
+An echo occurs in real-world acoustic spaces where the reflection surface is far enough away from the sound source and listener to make the reflection sound like a distinct separated repeat or tap of the original sound. This can be heard for example when you scream something into a well.
+
+Two identical sounds, when played in rapid succession with a delay between them of 1ms to 50ms, will appear as one fused sound to a listener. Any delay time longer than this will start to sound more like a distinct echo.
+
+Reverb, flange and chorus effects are all delay-based effects where the delay parameters are adjusted or the signal modulated to create different-sounding end results to that of a straight delay effect.
+
+
+
+# Audio Pan
+
+Panning audio **lets you distribute sound across the stereo or surround spectrum to create balance or a special effect**. For example, you can place more sound in the right channel of a stereo clip or less sound in the center channel of a surround clip.
+
+# Audio Clip Edit
+
+https://liveaspects.com/how-to-edit-audio-in-ableton-live/
+
+## What exactly is the fade effect?
+
+https://musicalstudy.com/important-to-use-fades/
+
+The fade is a sound effect that professional audio engineers would use in editing sounds. The fade is **a decrease or increase in the volume** of the sound. Fades can make a sound appear to start “fading in” or “fading out” when it slowly appears or disappears respectively.
+
+The fade-out effect is often used in different types of music to signify that there is no end to the song. The song just slowly fades away as it ends until it cannot be heard anymore. Ballad songs and slow songs, in particular, sound better with a fade than with an abrupt stop.
+
+Fade-ins, on the other hand, are used during the beginning of a song. This effect is often used when the introduction of a song starts with drums. The drums then become louder and louder as the song progresses.
+
+## **How To Fade In & Out**
+
+
+
+Fading an audio clip in or out can be achieved using the fade handles. Fade handles appear as small square boxes in the corners of an audio clip. Simply hover over an audio clip with your mouse to reveal the fade handles, then click and drag left or right to create a fade. You can change the shape of the fade by adjusting the diamond-shaped fade handles.
+
+![How To Fade In Ableton Live](https://liveaspects.com/wp-content/uploads/2021/08/FadeTest.png?ezimgfmt=rs:810x117/rscb1/ng:webp/ngcb1)
+
+
+
+#  **What Is Automation?**
+
+Automation is a powerful tool found in popular DAWs that automatically controls parameters across the timeline of a mix. It is used to automatically adjust faders, knobs or buttons that control parameters within a track or plug-in. Automation can help avoid repetition, create variation and build a sense of anticipation
