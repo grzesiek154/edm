@@ -2,7 +2,7 @@
 
 ## Kick
 
-<img src="https://ableton-learningmusic.imgix.net/kick.jpg?ixlib=imgixjs-3.4.1" alt="Kick drum" style="zoom:25%;" />
+<img src="images/kick.jpg" alt="Kick drum" style="zoom:25%;" />
 
 Also called a *bass drum*, an acoustic kick is struck by a pedal with a beater attached, and is played by the drummer's foot. Electronic versions of this sound are sometimes made to sustain much longer than the relatively short sound produced by a physical drum.
 
@@ -14,7 +14,7 @@ This is the sound of one or more people clapping their hands. Today, electronic,
 
 ## Snare
 
-<img src="https://ableton-learningmusic.imgix.net/snare.jpg?ixlib=imgixjs-3.4.1" alt="Snare" style="zoom:25%;" />
+<img src="images/snare.jpg" alt="Snare" style="zoom:25%;" />
 
 A *snare drum* is struck with a drum stick, and produces a short, bright sound. A set of wires (called *snares*) is stretched across a *drum head* at the bottom of the drum. The vibration of the bottom drum head against the snares produces the drum's characteristic "cracking" tone.
 
@@ -24,7 +24,7 @@ Claps, snares, and other "sharp" or "bright" sounds are often used in similar wa
 
 ## Closed Hat and Open Hat
 
-![Hi-hat](https://ableton-learningmusic.imgix.net/hi-hat.jpg?ixlib=imgixjs-3.4.1)
+![Hi-hat](images/hi-hat.jpg)
 
 These are two different sounds created by an instrument called the *hihat*. Hihats are a pair of small cymbals mounted on a stand. The top cymbal is attached to a rod that is raised and lowered with a foot pedal. Hihats are "closed" when the drummer's foot is down, which presses the cymbals together. They are "open" when the drummer's foot is raised and the cymbals are not touching. On an acoustic drumset, there is a huge range of states in between the open and closed position, and each state creates a different type of sound.
 
@@ -52,7 +52,7 @@ Some types of musical patterns have a very clear underlying beat, while others h
 
 
 
-![image-20220115181622313](image-20220115181622313.png)
+![image-20220115181622313](images/image-20220115181622313.png)
 
 This pattern is so common that it even has its own name: "four on the floor."
 
@@ -82,7 +82,7 @@ In the empty grid below, do the following:
 
 Many styles of music that are "in four" feature a clap or snare on the second and fourth beat, a pattern known as a *backbeat*.
 
-![image-20220116194936965](image-20220116194936965.png)
+![image-20220116194936965](images/image-20220116194936965.png)
 
 This combination of four-on-the-floor kicks with backbeat claps or snares is commonly used in many genres such as techno and house.
 
@@ -110,7 +110,7 @@ You can build scales by adding more notes at specific distances (or *intervals*)
 
 ## Chromatic Scale
 
-![image-20220116201316024](image-20220116201316024.png)
+![image-20220116201316024](images/image-20220116201316024.png)
 
 This is another type of scale, called the *chromatic* scale.
 
@@ -152,7 +152,7 @@ But these instruments are used in very different ways. Some of the guitars and k
 
 But combining (or *harmonizing*) the melody with some chords helps to fill out the texture. This is an example of a simple *chord progression*: a series of chords played in a particular order. In many types of music, chord progressions are used to create a sense of tension and release, by moving away from the tonic of the song and then back again.
 
-![image-20220117203813881](image-20220117203813881.png)
+![image-20220117203813881](images/image-20220117203813881.png)
 
 ## What are these chords?
 
@@ -168,7 +168,7 @@ But there's another principle at work here; these chords are built on the first 
 
 This progression of four chords forms the basis of hundreds of pop songs from the last few decades. In this video, dozens of them are combined together, all transposed to D major:
 
-![image-20220117214505146](image-20220117214505146.png)
+![image-20220117214505146](images/image-20220117214505146.png)
 
 # Bassline
 
@@ -186,7 +186,7 @@ Most synthesizers, including the DX100, provide a number of different pre-made s
 
 In this early techno classic, the bassline plays short notes with an intricate rhythm. This creates an interesting contrast with the mostly four-on-the-floor drum pattern.
 
-![image-20220117205348219](image-20220117205348219.png)
+![image-20220117205348219](images/image-20220117205348219.png)
 
 ## Daft Punk - “Around the World”
 
@@ -198,7 +198,7 @@ Daft Punk don't share a lot of details about their process, so it's not entirely
 
 This bassline has an interesting shape: a sort of "ascending stairs" pattern that repeats three times before "climbing" back down the notes of the scale. The use of three repeating variations followed by a new idea is a common composition technique.
 
-![image-20220117210639654](image-20220117210639654.png)
+![image-20220117210639654](images/image-20220117210639654.png)
 
 Experiment with your own basslines that use some of the defining characteristics of the original: intricate rhythms, passing tones, and ideas that repeat three times.
 
@@ -212,7 +212,7 @@ The bass sound — and also the pattern itself — is a preset from the **Casiot
 
 This dancehall track has spawned hundreds of additional songs that use the same bassline and drum pattern.
 
-![image-20220117210958951](image-20220117210958951.png)
+![image-20220117210958951](images/image-20220117210958951.png)
 
 Notice that this bassline uses a similar design to the one in "Around the World": three repeated patterns, followed by a new idea. Try to create some variations of your own.
 
@@ -226,7 +226,7 @@ Similarly to Daft Punk, Rhythm & Sound almost never share the secrets of their e
 
 The bassline in this dub techno track is probably the most important element. There are chords but they're very much in the background. (Note that these chords are played with the same offbeat "skank" rhythm that you learned [earlier](https://learningmusic.ableton.com/chords/get-up-stand-up.html). This rhythm is very common in reggae, dub, and related styles.)
 
-![image-20220117211508286](image-20220117211508286.png)
+![image-20220117211508286](images/image-20220117211508286.png)
 
 Despite the central focus of the bassline, notice how little actually happens in it; most of the pattern is empty space, and when notes do occur, they're mostly in unusual rhythmic spaces "in between" the beats.
 
@@ -242,7 +242,7 @@ The bassline is eight bars long, but can be further broken down into two groups 
 
 The first two bars are a pattern made from the notes in a D minor triad. The two bar pattern repeats twice.
 
-![image-20220117212228421](image-20220117212228421.png)
+![image-20220117212228421](images/image-20220117212228421.png)
 
 ## arpeggio
 
@@ -278,22 +278,128 @@ This melody uses only notes in the scale of D major. But the melody starts with 
 
 Notice the shape (or *contour*) of the melody. At the beginning, it moves up and down the scale by adjacent notes. But at the end, it leaps from B up to D and then down to A. This contrast between ***stepwise* and *leapwise*** motion helps to make the melody strong and memorable.
 
-![image-20220117215537925](image-20220117215537925.png)
+![image-20220117215537925](images/image-20220117215537925.png)
 
 ## Kraftwerk - “Tour de France”
 
-## What plays the melody?
+### What plays the melody?
 
 Synthesizers and drum machines play all of the sounds in this track (except the vocal parts), and the primary melody is a synthetic string-like sound.
 
-## How is this melody put together?
+### How is this melody put together?
 
 The main melody in this track is very long, but you can break it down into four smaller pieces (or *phrases*) that are simple variations of each other.
 
 The first and second phrases are identical, with the exception of the final note. In the first phrase, the last two notes descend from B♭ to A♭, while in the second phrase, they ascend from B♭ to C. You can hear this as a sort of "question and answer" relationship; the first phrase sounds somehow incomplete, while the second phrase sounds like it serves to resolve the first.
 
-![image-20220117221049497](image-20220117221049497.png)
+![image-20220117221049497](images/image-20220117221049497.png)
 
 The third and fourth phrases also work as a pair. The third is identical to the first, except that it has been transposed up to start on G instead of F. Finally, the fourth phrase "answers" the third, with another small variation at the end of the phrase.
 
-![image-20220117221228248](image-20220117221228248.png)
+![image-20220117221228248](images/image-20220117221228248.png)
+
+## Ikonika - “Praxis”
+
+### What are these sounds?
+
+There are many layers in this song, and all of them are played by electronic instruments of some kind.
+
+### How is this melody put together?
+
+This song is in E minor. Much like the Kraftwerk example, the melody  is a pair of nearly-identical phrases, with a small variation occurring  at the end of the phrase. Each phrase is two bars long, and only the  last note differs.
+
+The rhythm is interesting; the pair of ascending five-note lines from D up to B creates a sort of rhythmic "tension" as the notes land in a  different place in the bar each time through the figure.
+
+![image-20220120155250196](images/image-20220120155250196.png)
+
+### Did you notice...?
+
+You might have noticed that the notes don't quite sound the same  between the video and the note grid. That's because the original track  uses notes that are in-between the 12 pitches that are commonly used.  This might have happened because Ikonika was working with synthesizers  that had very flexible ranges of pitch, and she tuned them by ear rather than to a "standard" reference.
+
+If you listen to the original track alone, everything works, because  all of the instruments use the same collection of notes and so are *in tune* with each other. In the grid, we've chosen to move up to the next  higher "conventional" note (E), but we could also have gone lower; the  song is almost exactly halfway between E♭ and E.
+
+## Robert Hood - “Ride”
+
+### What plays the melody?
+
+As with the Kraftwerk example, all of the sounds here are made by  synthesizers and drum machines. There are actually very few sounds being used, but they continuously evolve.
+
+Robert Hood was working extensively with the **Roland Alpha Juno 2** synthesizer on this record, and it's likely that this is the synth used for this melodic sound.
+
+### How is this melody put together?
+
+In addition to the drums, there is only a single pattern of notes that repeats throughout the entire track.
+
+This is an example of minimal techno; here the focus is on slow,  subtle changes, primarily to the nature of the sounds themselves, rather than to the notes and rhythms.
+
+![image-20220120155706428](images/image-20220120155706428.png)
+
+Notice that this line jumps between a very wide range of pitches. As  you listen to it repeat, you might sometimes hear it as one part, while  at other times it might separate into two interlocking parts, with the  high notes suggesting a melody and the low notes suggesting a bassline.
+
+So is it one or the other, or both? In music like this, the distinction is really up to the listener.
+
+Also notice that the steady four-on-the-floor kick drum makes it very easy to hear the beats. But it's very difficult to tell where the  pattern actually begins. If you jump to different points in the video,  you might hear the pattern sound like it has "shifted" to begin in  different places.
+
+# Song structure
+
+## Play with song structures
+
+You can think of a song as a block of time, which can be broken down  into smaller blocks of time. In many types of music, the smaller  sections consist of even smaller patterns like the ones you've been  making, combined in **multiples of four, eight, or 16 bars**.
+
+Putting these sections together is called *arranging*; it's how you get from small patterns to a full song.
+
+## Song forms
+
+The combination of a song's sections is the song's *structure* or *form*. Some types of forms are used over and over in many types of music.
+
+## CHVRCHES - “Bury It”
+
+https://learningmusic.ableton.com/song-structure/bury-it.html
+
+This synthpop track uses a very common song form, which is labeled  below the video. Try listening through the song once, following the form as discussed below. Then try clicking the blocks to jump around in the  form so you can hear the relationships between the sections.
+
+### Intro
+
+Many songs have an introductory section that lays out some of the sounds that will be used, and establishes the song’s key. This song’s four-bar intro lays out the rhythmic synthesizer pattern that repeats often throughout the song
+
+### Verse 1
+
+In songs with vocals, the verse is usually a section that occurs multiple times and has the same music but different lyrics each time. This song’s two eight-bar verses work in exactly this way.
+
+### Pre-chorus 1
+
+A pre-chorus is a section that serves as a kind of link between a song’s verses and its choruses. In this song, each pre-chorus helps to build a sense of tension and energy that leads into the chorus. Each of the three eight-bar pre-choruses in this song has identical lyrics.
+
+### Chorus 1
+
+In songs with vocals, the chorus is usually a section that is repeated exactly; both the music and the lyrics are the same each time a chorus is repeated. The lyrics in the chorus often include the song’s title. The chorus is often the “strongest” part of the song: more instruments, higher pitches, louder overall sound, etc. This song’s first chorus is four bars long — half the length of the other two choruses.
+
+### Break 1
+
+After each chorus is a four-bar instrumental transition. Notice that the break is similar to the intro, but with a much denser texture.
+
+### Verse 2
+
+The second verse is also eight bars long, but with some interesting differences from the first verse. The first two bars here are very sparse, before all of the instruments suddenly enter in the third bar.
+
+### Pre-chorus 2
+
+A pre-chorus is a section that serves as a kind of link between a song’s verses and its choruses. In this song, each pre-chorus helps to build a sense of tension and energy that leads into the chorus. Each of the three eight-bar pre-choruses in this song has identical lyrics.
+
+### Chorus 2
+
+In songs with vocals, the chorus is usually a section that is repeated exactly; both the music and the lyrics are the same each time a chorus is repeated. The lyrics in the chorus often include the song’s title. The chorus is often the “strongest” part of the song: more instruments, higher pitches, louder overall sound, etc. Note that this chorus is eight bars long — twice as long as the first chorus.
+
+### Break 2
+
+After each chorus is a four-bar instrumental transition. This break is even more dense than the first one.
+
+### Pre-chorus 3
+
+### Chorus 3
+
+In songs with vocals, the chorus is usually a section that is repeated exactly; both the music and the lyrics are the same each time a chorus is repeated. The lyrics in the chorus often include the song’s title. The chorus is often the “strongest” part of the song: more instruments, higher pitches, louder overall sound, etc. Like the second chorus, this song’s third chorus is eight bars long — twice as long as the first chorus.
+
+### Outro
+
+The song ends with a section that’s similar to the previous two breaks, but with even more instrumental layers.

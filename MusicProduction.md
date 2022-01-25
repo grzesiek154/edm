@@ -44,7 +44,7 @@ Reverb is the persistence of sound after a sound is produced. Reverb is created 
 
 # Delay
 
-![image-20220107211038212](image-20220107211038212.png)
+![image-20220107211038212](images/image-20220107211038212.png)
 
 Number tels how much percent of the song should be affected by the delay
 
@@ -84,7 +84,7 @@ Fade-ins, on the other hand, are used during the beginning of a song. This effec
 
 Fading an audio clip in or out can be achieved using the fade handles. Fade handles appear as small square boxes in the corners of an audio clip. Simply hover over an audio clip with your mouse to reveal the fade handles, then click and drag left or right to create a fade. You can change the shape of the fade by adjusting the diamond-shaped fade handles.
 
-![How To Fade In Ableton Live](https://liveaspects.com/wp-content/uploads/2021/08/FadeTest.png?ezimgfmt=rs:810x117/rscb1/ng:webp/ngcb1)
+![How To Fade In Ableton Live](images/FadeTest.png)
 
 
 

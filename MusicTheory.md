@@ -38,7 +38,7 @@ Interval of fifth, menas eg. C2 and G2. Between C2 and G2 we have 3 white notes 
 
 ## The pattern of a key (major scale)
 
-![image-20211212125613640](image-20211212125613640.png)
+![image-20211212125613640](images/image-20211212125613640.png)
 
 
 
@@ -53,7 +53,7 @@ Finding 3th in the major scale
 
 
 
-## ![image-20211212141847868](image-20211212141847868.png)
+## ![image-20211212141847868](images/image-20211212141847868.png)
 
 from c2  => e2 is a 3th
 
@@ -61,7 +61,7 @@ from d2  => f2 is a 3th
 
 
 
-![image-20211212142157410](image-20211212142157410.png)
+![image-20211212142157410](images/image-20211212142157410.png)
 
 from c2  => e2 is a 3th, it is major because it has more half steps
 
@@ -92,7 +92,7 @@ eg:
 
 Major triad:
 
-![image-20211212144221366](image-20211212144221366.png)
+![image-20211212144221366](images/image-20211212144221366.png)
 
 ### Components Of A Triad
 
@@ -137,11 +137,11 @@ Minor chords are made in much the same way as major chords, except the thirds ar
 
 A minor third is a whole step plus a half step, so if we start on C, we would move up to **E-flat** as opposed to the E natural in the major chord discussion above. From there we would move up a **major third** to reach our last note, G.
 
-![image-20211222210028936](image-20211222210028936.png)
+![image-20211222210028936](images/image-20211222210028936.png)
 
 ## Chord progression
 
-![image-20211213195227991](image-20211213195227991.png)
+![image-20211213195227991](images/image-20211213195227991.png)
 
 ## What is a chord progression?
 
@@ -159,7 +159,7 @@ There are particular common chord progressions which are used again  and again i
 
 # Section 5
 
-![image-20211212152754286](image-20211212152754286.png)
+![image-20211212152754286](images/image-20211212152754286.png)
 
 ## Diatonic chord progression
 
@@ -169,11 +169,11 @@ This are all the notes combination from a particular note, eg if the root is C c
 
 
 
-![image-20211213200652228](image-20211213200652228.png)
+![image-20211213200652228](images/image-20211213200652228.png)
 
-![image-20211213200821494](image-20211213200821494.png)
+![image-20211213200821494](images/image-20211213200821494.png)
 
-![image-20211213202217820](image-20211213202217820.png)
+![image-20211213202217820](images/image-20211213202217820.png)
 
 ## Inversion
 
@@ -181,11 +181,11 @@ Inversion means reordering notes (different from root note) to another octave
 
 From:
 
-![image-20211213205355412](image-20211213205355412.png)
+![image-20211213205355412](images/image-20211213205355412.png)
 
 To:
 
-![image-20211213205616255](image-20211213205616255.png)
+![image-20211213205616255](images/image-20211213205616255.png)
 
 
 
@@ -193,7 +193,7 @@ To:
 
 ## 7th chord
 
-![image-20211213210708377](image-20211213210708377.png)
+![image-20211213210708377](images/image-20211213210708377.png)
 
 ## Major 7
 
@@ -201,7 +201,7 @@ To:
 
 Major 7 is when we are half step from a root note of a higher octave
 
-![image-20211213212302615](image-20211213212302615.png)
+![image-20211213212302615](images/image-20211213212302615.png)
 
 ## Minor 7 
 
@@ -209,15 +209,15 @@ Minor 7 is when we are full step from a root note of a higher octave
 
 
 
-![image-20211213212511745](image-20211213212511745.png)
+![image-20211213212511745](images/image-20211213212511745.png)
 
-![image-20211213212743333](image-20211213212743333.png)
+![image-20211213212743333](images/image-20211213212743333.png)
 
 
 
-![image-20211213213937789](image-20211213213937789.png)
+![image-20211213213937789](images/image-20211213213937789.png)
 
-![image-20211213213956914](image-20211213213956914.png)
+![image-20211213213956914](images/image-20211213213956914.png)
 
 # Section 7
 
@@ -225,9 +225,9 @@ Minor 7 is when we are full step from a root note of a higher octave
 
 5th - is a inversion of a 4th
 
-![image-20211216203740039](image-20211216203740039.png)
+![image-20211216203740039](images/image-20211216203740039.png)
 
-![image-20211216203758868](image-20211216203758868.png)
+![image-20211216203758868](images/image-20211216203758868.png)
 
 
 
@@ -235,7 +235,7 @@ When we invert the interval it becomes opposite, major becomes minor
 
 Song analysis:
 
-![image-20211216212821993](image-20211216212821993.png)
+![image-20211216212821993](images/image-20211216212821993.png)
 
 
 
@@ -247,13 +247,13 @@ https://www.masterclass.com/articles/minor-scale-guide#what-is-a-minor-scale
 
 In music theory, a minor scale is a seven-note musical scale that  features a minor third scale degree (also known as a flat third). The  sound of the minor scale can evoke sadness, eeriness, and suspense.  Minor chords and minor-key music use notes from a minor scale.
 
-![image-20211218172018919](image-20211218172018919.png)
+![image-20211218172018919](images/image-20211218172018919.png)
 
-![image-20211221221613911](image-20211221221613911.png)
+![image-20211221221613911](images/image-20211221221613911.png)
 
 standard minor scale
 
-## ![image-20211221220659001](image-20211221220659001.png)
+## ![image-20211221220659001](images/image-20211221220659001.png)
 
 ## What Is the Difference Between Major and Minor Scales?
 
@@ -267,7 +267,7 @@ Natural minor scales share a key signature with a [relative major key](https://w
 
 7th note is going up for half step
 
-![image-20211222214623769](image-20211222214623769.png)
+![image-20211222214623769](images/image-20211222214623769.png)
 
 
 
@@ -277,7 +277,7 @@ Natural minor scales share a key signature with a [relative major key](https://w
 
 6th note is going up for half step
 
-![image-20211222214732119](image-20211222214732119.png)
+![image-20211222214732119](images/image-20211222214732119.png)
 
 ## Relative keys
 
@@ -301,7 +301,7 @@ You can find the relative minor of a major scale by finding that scale's  sixth 
 
 All chords we can use from a key of A minor:
 
-![image-20211222213550206](image-20211222213550206.png)
+![image-20211222213550206](images/image-20211222213550206.png)
 
 # Section 11 - song analysis tips
 
@@ -311,17 +311,17 @@ All chords we can use from a key of A minor:
 
 2. Check the scale notes are in, you can draw the scale and check if all notes appear in the scale from the root key (point 1)
 
-   ![image-20211227133022334](image-20211227133022334.png)
+   ![image-20211227133022334](images/image-20211227133022334.png)
 
 3. Detect the chord progression, eg below is the A minor scale chord progression
 
-   ![image-20211227143403070](image-20211227143403070.png)
+   ![image-20211227143403070](images/image-20211227143403070.png)
 
  Section 12 - the circle of fifths
 
 # 
 
-![Circle of fifths ](https://assets.classicfm.com/2018/13/circle-of-fifths--1523016231.jpg)
+![Circle of fifths ](images/circle-of-fifths--1523016231.jpg)
 
 Closely related key (modulation key)
 
@@ -333,27 +333,27 @@ In chord progression moving to common notes make nicer sound
 
 We can change the key of the scale if there are not many differences between notes used in the particular scale, the are **closely related** in the circle of fifths  eg
 
-![image-20211227152446050](image-20211227152446050.png)
+![image-20211227152446050](images/image-20211227152446050.png)
 
 In the above picture C major scale and G major scale have only one difference F#
 
 Every step from a note on the circle of fifths means one note difference, we can also move from major scale note to relevan note in minor scale
 
-![image-20211227153008839](image-20211227153008839.png)
+![image-20211227153008839](images/image-20211227153008839.png)
 
 Section 13 - Song analysis (Get Lucky)
 
 E minor do not match, sounds do not fit, this is whya we need to search close note from the circle of fifths
 
-![image-20211227184844187](image-20211227184844187.png)
+![image-20211227184844187](images/image-20211227184844187.png)
 
 In the circle of fifths we need to check notes which are close to B minor (this is our key)
 
-![image-20211227184532599](image-20211227184532599.png)
+![image-20211227184532599](images/image-20211227184532599.png)
 
 We did change E minor to E major form a F# minor scale(E is a 7th note in the row from the F# minor scale and this is whay it is major), which is closely related to B minor
 
-![image-20211227190513640](image-20211227190513640.png)
+![image-20211227190513640](images/image-20211227190513640.png)
 
 
 
@@ -363,9 +363,9 @@ We did change E minor to E major form a F# minor scale(E is a 7th note in the ro
 
 Is when we move 7th note, half step down
 
-![image-20211228115043787](image-20211228115043787.png)
+![image-20211228115043787](images/image-20211228115043787.png)
 
-![image-20211228115054983](image-20211228115054983.png)
+![image-20211228115054983](images/image-20211228115054983.png)
 
 
 
@@ -375,7 +375,7 @@ We can create higher chords by coping note from a particular scale to octave hig
 
 Eg. with usage of 9th the sound is more thicker and similar to jazz music
 
-![image-20211228121604719](image-20211228121604719.png)
+![image-20211228121604719](images/image-20211228121604719.png)
 
 ## Suspended chords
 
@@ -403,22 +403,22 @@ Cadd4: C-E-F-G (The F is in addition to the third)
 
 ## Reading a chord chart
 
-![image-20211228124630419](image-20211228124630419.png)
+![image-20211228124630419](images/image-20211228124630419.png)
 
 The amount of "#" or "b" tells us in which key we are, see the below circle
 
-![image-20211228124503342](image-20211228124503342.png)
+![image-20211228124503342](images/image-20211228124503342.png)
 
 meaning if we have  one "#" we go to the right of the circle and we are in the key of G (or Em). On the other hand if we have one "b" we go to the left and we are in the key of F (or Dm)
 
-![image-20211228125648022](image-20211228125648022.png)
+![image-20211228125648022](images/image-20211228125648022.png)
 
 Or second chord is F# minor, but "#" indicates that we need the change it to the minor chord by raising 5th note up one half step
 
 
 
-![image-20211228125900410](image-20211228125900410.png)
+![image-20211228125900410](images/image-20211228125900410.png)
 
 Above means that we need to add E as a base to the F#m chord
 
-![image-20211228125951294](image-20211228125951294.png)
+![image-20211228125951294](images/image-20211228125951294.png)
